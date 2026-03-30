@@ -1,0 +1,7 @@
+1.Data reducing
+2.Exploring
+3.data cleaning
+4.EDA analysis
+5.data splitting
+6.model fit
+7.testing
